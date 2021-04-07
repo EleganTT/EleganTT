@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Dmitriy Lee
+- 👋 Hi, I’m Dmitriy Lee.
 - 👀 I’m interested in mobile application development.
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Swift.
 - 💞️ I’m looking to collaborate on any mobile development project.
-- 📫 How to reach me instagram: @dmitriy__lee
+- 📫 e-mail: dmitriy.leee@gmail.com.
 
 <!---
 EleganTT/EleganTT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
